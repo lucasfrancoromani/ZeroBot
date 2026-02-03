@@ -1,0 +1,6 @@
+openai>=1.40.0
+python-dotenv==1.0.1
+moviepy==1.0.3
+requests==2.31.0
+numpy<2.0.0
+decorator==4.4.2
